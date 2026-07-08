@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Manuel Fernandes
 
-<!--
-**valdir-IT/valdir-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Information Technology graduate interested in:
 
-Here are some ideas to get you started:
+- Cybersecurity
+- System Administration
+- Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I enjoy learning new technologies, collaborating with others, and exploring solutions to real-world problems.
+
+## Skills
+
+- Python
+- Java
+- Bash
+- Git
+- Linux
+
+## Currently Learning
+
+🌱 Penetration Testing and System Security.
