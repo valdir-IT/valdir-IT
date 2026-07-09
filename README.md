@@ -3,7 +3,7 @@
 <h1>👋 Hi, I'm Manuel Fernandes</h1>
 
 <p align="center">
-B.Tech IT Graduate | Exploring Cybersecurity, Artificial Intelligence & Systems.
+B.Tech IT Graduate | Exploring Cybersecurity, AI & Systems.
 
 </div>
 
